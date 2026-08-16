@@ -109,7 +109,7 @@
             "last_commit": "2026-08-14T13:45:17Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14586
+            "stars": 14590
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-10T14:03:53Z",
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7912
+            "stars": 7914
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7788
+            "stars": 7789
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-08-14T23:36:12Z",
             "owner": "cartography-cncf",
             "repo": "cartography",
-            "stars": 4007
+            "stars": 4009
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-07-28T11:32:15Z",
             "owner": "aquasecurity",
             "repo": "cloudsploit",
-            "stars": 3764
+            "stars": 3763
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-05-26T14:47:00Z",
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2554
+            "stars": 2555
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2026-05-19T22:31:37Z",
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5304
+            "stars": 5303
           }
         },
         {
@@ -436,10 +436,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T16:27:12Z",
+            "last_commit": "2026-08-15T17:27:52Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30512
+            "stars": 30527
           }
         },
         {
@@ -450,10 +450,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T16:42:01Z",
+            "last_commit": "2026-08-15T17:21:03Z",
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10281
+            "stars": 10283
           }
         }
       ],
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:36:26.794Z",
+    "last_updated": "2026-08-16T02:46:06.411Z",
     "original_repository": "7WaySecurity/cloud_osint",
     "original_repository_sha": "8a93a8006520d18ebffcccda9c660ba0ba74507b",
     "enhanced_repository": "enhansome/enhansome-cloud_osint",
