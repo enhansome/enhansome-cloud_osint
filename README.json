@@ -109,7 +109,7 @@
             "last_commit": "2026-08-14T13:45:17Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14590
+            "stars": 14596
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7789
+            "stars": 7791
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-05-26T14:47:00Z",
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2555
+            "stars": 2557
           }
         },
         {
@@ -317,7 +317,7 @@
             "last_commit": "2026-08-05T13:43:22Z",
             "owner": "dirkjanm",
             "repo": "ROADtools",
-            "stars": 2698
+            "stars": 2699
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-06-29T14:43:59Z",
             "owner": "NetSPI",
             "repo": "MicroBurst",
-            "stars": 2415
+            "stars": 2418
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2025-09-30T18:30:24Z",
             "owner": "Gerenios",
             "repo": "AADInternals",
-            "stars": 1676
+            "stars": 1678
           }
         }
       ],
@@ -436,10 +436,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T17:27:52Z",
+            "last_commit": "2026-08-16T18:47:00Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30527
+            "stars": 30546
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2026-08-15T17:21:03Z",
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10283
+            "stars": 10284
           }
         }
       ],
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:46:06.411Z",
+    "last_updated": "2026-08-17T02:45:23.075Z",
     "original_repository": "7WaySecurity/cloud_osint",
     "original_repository_sha": "8a93a8006520d18ebffcccda9c660ba0ba74507b",
     "enhanced_repository": "enhansome/enhansome-cloud_osint",
