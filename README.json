@@ -106,10 +106,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:45:17Z",
+            "last_commit": "2026-08-17T18:02:29Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14596
+            "stars": 14610
           }
         },
         {
@@ -120,10 +120,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T14:03:53Z",
+            "last_commit": "2026-08-17T18:44:47Z",
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7914
+            "stars": 7917
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7791
+            "stars": 7793
           }
         },
         {
@@ -148,10 +148,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T23:36:12Z",
+            "last_commit": "2026-08-17T20:32:53Z",
             "owner": "cartography-cncf",
             "repo": "cartography",
-            "stars": 4009
+            "stars": 4010
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-07-28T11:32:15Z",
             "owner": "aquasecurity",
             "repo": "cloudsploit",
-            "stars": 3763
+            "stars": 3766
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2026-05-19T22:31:37Z",
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5303
+            "stars": 5305
           }
         },
         {
@@ -269,7 +269,7 @@
             "last_commit": "2024-02-05T20:53:34Z",
             "owner": "andresriancho",
             "repo": "enumerate-iam",
-            "stars": 1249
+            "stars": 1250
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-06-29T14:43:59Z",
             "owner": "NetSPI",
             "repo": "MicroBurst",
-            "stars": 2418
+            "stars": 2419
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2025-09-30T18:30:24Z",
             "owner": "Gerenios",
             "repo": "AADInternals",
-            "stars": 1678
+            "stars": 1679
           }
         }
       ],
@@ -436,10 +436,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T18:47:00Z",
+            "last_commit": "2026-08-17T12:41:59Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30546
+            "stars": 30569
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2026-08-15T17:21:03Z",
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10284
+            "stars": 10285
           }
         }
       ],
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:45:23.075Z",
+    "last_updated": "2026-08-18T02:39:50.763Z",
     "original_repository": "7WaySecurity/cloud_osint",
     "original_repository_sha": "8a93a8006520d18ebffcccda9c660ba0ba74507b",
     "enhanced_repository": "enhansome/enhansome-cloud_osint",
