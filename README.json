@@ -1,432 +1,363 @@
 {
   "items": [
     {
-      "description": "↑ Back to Contents",
-      "items": [],
-      "title": "🗺️ Cloud OSINT Methodology"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "☁️ Cloud Infrastructure Patterns"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔵 Azure Storage"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🟠 AWS Regions"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🟠 AWS S3 Buckets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🟠 AWS SQS"
-    },
-    {
-      "description": "↑ Back to Contents",
-      "items": [],
-      "title": "📡 Official IP Range Sources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔍 Google Dorks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Azure Dorks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AWS Dorks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Google Cloud Dorks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "IBM Cloud Dorks"
-    },
-    {
-      "description": "↑ Back to Contents",
-      "items": [],
-      "title": "Miscellaneous Dorks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🌐 Shodan Dorks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Filter Reference"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Azure Queries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Amazon Queries"
-    },
-    {
-      "description": "↑ Back to Contents",
-      "items": [],
-      "title": "Other Cloud Queries"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": "Curated collection of tools for cloud reconnaissance, enumeration, and security assessment. Organized by scope and cloud provider.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Prowler",
+              "description": "Open-source cloud security tool for AWS, Azure, GCP, and Kubernetes with 300+ checks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66474729,
+                "language": "Python",
+                "last_commit": "2026-08-19T11:59:12Z",
+                "owner": "prowler-cloud",
+                "repo": "prowler",
+                "stars": 14620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Steampipe",
+              "description": "Query cloud infrastructure using SQL across AWS, Azure, GCP, and 100+ other services.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330405184,
+                "language": "Go",
+                "last_commit": "2026-08-18T08:31:27Z",
+                "owner": "turbot",
+                "repo": "steampipe",
+                "stars": 7919
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ScoutSuite",
+              "description": "Multi-cloud security auditing tool for AWS, Azure, GCP, Alibaba Cloud, and Oracle Cloud configurations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155376283,
+                "language": "Python",
+                "last_commit": "2025-09-23T18:33:52Z",
+                "owner": "nccgroup",
+                "repo": "ScoutSuite",
+                "stars": 7795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cartography",
+              "description": "Consolidates infrastructure assets and relationships across cloud providers into a graph database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172811550,
+                "language": "Python",
+                "last_commit": "2026-08-19T00:09:58Z",
+                "owner": "cartography-cncf",
+                "repo": "cartography",
+                "stars": 4013
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudSploit",
+              "description": "Cloud security posture management detecting misconfigurations across AWS, Azure, GCP, and Oracle.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38255391,
+                "language": "JavaScript",
+                "last_commit": "2026-07-28T11:32:15Z",
+                "owner": "aquasecurity",
+                "repo": "cloudsploit",
+                "stars": 3767
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudFox",
+              "description": "Automating situational awareness for cloud penetration testing across AWS, Azure, and GCP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 534023067,
+                "language": "Go",
+                "last_commit": "2026-05-26T14:47:00Z",
+                "owner": "BishopFox",
+                "repo": "cloudfox",
+                "stars": 2560
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudEnum",
+              "description": "Multi-cloud OSINT tool that enumerates public resources across AWS, Azure, and GCP simultaneously.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189564945,
+                "language": "Python",
+                "last_commit": "2026-07-09T03:20:37Z",
+                "owner": "initstring",
+                "repo": "cloud_enum",
+                "stars": 2132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudBrute",
+              "description": "Cloud infrastructure discovery tool supporting multiple providers with concurrent enumeration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294051203,
+                "language": "Go",
+                "last_commit": "2025-03-09T17:48:52Z",
+                "owner": "0xsha",
+                "repo": "CloudBrute",
+                "stars": 1144
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi-Cloud Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pacu",
+              "description": "AWS exploitation framework designed for offensive security testing of cloud environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137276052,
+                "language": "Python",
+                "last_commit": "2026-05-19T22:31:37Z",
+                "owner": "RhinoSecurityLabs",
+                "repo": "pacu",
+                "stars": 5305
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "S3Scanner",
+              "description": "Scan for open S3 buckets, dump their contents, and check bucket permissions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94825396,
+                "language": "Go",
+                "last_commit": "2026-08-03T13:45:56Z",
+                "owner": "sa7mon",
+                "repo": "S3Scanner",
+                "stars": 3165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWSBucketDump",
+              "description": "Quickly enumerate AWS S3 buckets and search for interesting files within discovered buckets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95813533,
+                "language": "Python",
+                "last_commit": "2024-04-10T06:15:23Z",
+                "owner": "jordanpotti",
+                "repo": "AWSBucketDump",
+                "stars": 1473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "enumerate-iam",
+              "description": "Enumerate IAM permissions for a given set of AWS credentials without logging.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186037170,
+                "language": "Python",
+                "last_commit": "2024-02-05T20:53:34Z",
+                "owner": "andresriancho",
+                "repo": "enumerate-iam",
+                "stars": 1251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WeirdAAL",
+              "description": "AWS Attack Library for testing and validating AWS security configurations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92956899,
+                "language": "Python",
+                "last_commit": "2025-01-13T17:11:51Z",
+                "owner": "carnal0wnage",
+                "repo": "weirdAAL",
+                "stars": 844
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lazys3",
+              "description": "Brute-force AWS S3 bucket discovery using different permutations of common names.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97876566,
+                "language": "Ruby",
+                "last_commit": "2024-02-01T09:22:32Z",
+                "owner": "nahamsec",
+                "repo": "lazys3",
+                "stars": 635
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AWS-Specific Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ROADtools",
+              "description": "Framework for Azure AD reconnaissance and exploration of directory data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250760872,
+                "language": "Python",
+                "last_commit": "2026-08-05T13:43:22Z",
+                "owner": "dirkjanm",
+                "repo": "ROADtools",
+                "stars": 2699
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MicroBurst",
+              "description": "PowerShell toolkit for attacking Azure services including storage, key vaults, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141166681,
+                "language": "PowerShell",
+                "last_commit": "2026-06-29T14:43:59Z",
+                "owner": "NetSPI",
+                "repo": "MicroBurst",
+                "stars": 2420
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stormspotter",
+              "description": "Azure AD and resource visualization tool for mapping attack paths.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258034494,
+                "language": "Python",
+                "last_commit": "2024-01-08T17:20:05Z",
+                "owner": "Azure",
+                "repo": "Stormspotter",
+                "stars": 1713
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AADInternals",
+              "description": "PowerShell module for Azure AD and Office 365 administration, exploitation, and backdooring.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154712144,
+                "language": "PowerShell",
+                "last_commit": "2025-09-30T18:30:24Z",
+                "owner": "Gerenios",
+                "repo": "AADInternals",
+                "stars": 1680
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Azure-Specific Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GCPBucketBrute",
+              "description": "Enumerate Google Storage buckets, determine access permissions, and check privilege escalation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172634627,
+                "language": "Python",
+                "last_commit": "2023-05-26T19:11:42Z",
+                "owner": "RhinoSecurityLabs",
+                "repo": "GCPBucketBrute",
+                "stars": 572
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GCP-Specific Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BucketLoot",
+              "description": "Automated tool to inspect exposed storage buckets for sensitive data across cloud providers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 667330658,
+                "language": "Go",
+                "last_commit": "2025-12-30T06:25:52Z",
+                "owner": "redhuntlabs",
+                "repo": "BucketLoot",
+                "stars": 446
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bucket_finder",
+              "description": "Tool to bruteforce for the existence of AWS S3 buckets and check permissions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9238403,
+                "language": "Ruby",
+                "last_commit": "2013-06-24T12:12:03Z",
+                "owner": "FishermansEnemy",
+                "repo": "bucket_finder",
+                "stars": 100
+              }
+            }
+          ],
+          "description": "↑ Back to Contents",
+          "node_type": "group",
+          "title": "Bucket and Storage Discovery"
+        }
+      ],
       "title": "🛠️ Cloud OSINT Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Prowler",
-          "description": "Open-source cloud security tool for AWS, Azure, GCP, and Kubernetes with 300+ checks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:02:23Z",
-            "owner": "prowler-cloud",
-            "repo": "prowler",
-            "stars": 14614
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Steampipe",
-          "description": "Query cloud infrastructure using SQL across AWS, Azure, GCP, and 100+ other services.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T08:31:27Z",
-            "owner": "turbot",
-            "repo": "steampipe",
-            "stars": 7919
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ScoutSuite",
-          "description": "Multi-cloud security auditing tool for AWS, Azure, GCP, Alibaba Cloud, and Oracle Cloud configurations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-23T18:33:52Z",
-            "owner": "nccgroup",
-            "repo": "ScoutSuite",
-            "stars": 7794
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cartography",
-          "description": "Consolidates infrastructure assets and relationships across cloud providers into a graph database.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T00:09:58Z",
-            "owner": "cartography-cncf",
-            "repo": "cartography",
-            "stars": 4012
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CloudSploit",
-          "description": "Cloud security posture management detecting misconfigurations across AWS, Azure, GCP, and Oracle.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-28T11:32:15Z",
-            "owner": "aquasecurity",
-            "repo": "cloudsploit",
-            "stars": 3767
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CloudFox",
-          "description": "Automating situational awareness for cloud penetration testing across AWS, Azure, and GCP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-26T14:47:00Z",
-            "owner": "BishopFox",
-            "repo": "cloudfox",
-            "stars": 2560
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CloudEnum",
-          "description": "Multi-cloud OSINT tool that enumerates public resources across AWS, Azure, and GCP simultaneously.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-09T03:20:37Z",
-            "owner": "initstring",
-            "repo": "cloud_enum",
-            "stars": 2132
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CloudBrute",
-          "description": "Cloud infrastructure discovery tool supporting multiple providers with concurrent enumeration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-03-09T17:48:52Z",
-            "owner": "0xsha",
-            "repo": "CloudBrute",
-            "stars": 1144
-          }
-        }
-      ],
-      "title": "Multi-Cloud Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Pacu",
-          "description": "AWS exploitation framework designed for offensive security testing of cloud environments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-19T22:31:37Z",
-            "owner": "RhinoSecurityLabs",
-            "repo": "pacu",
-            "stars": 5305
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "S3Scanner",
-          "description": "Scan for open S3 buckets, dump their contents, and check bucket permissions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-03T13:45:56Z",
-            "owner": "sa7mon",
-            "repo": "S3Scanner",
-            "stars": 3165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AWSBucketDump",
-          "description": "Quickly enumerate AWS S3 buckets and search for interesting files within discovered buckets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-10T06:15:23Z",
-            "owner": "jordanpotti",
-            "repo": "AWSBucketDump",
-            "stars": 1473
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "enumerate-iam",
-          "description": "Enumerate IAM permissions for a given set of AWS credentials without logging.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-05T20:53:34Z",
-            "owner": "andresriancho",
-            "repo": "enumerate-iam",
-            "stars": 1251
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WeirdAAL",
-          "description": "AWS Attack Library for testing and validating AWS security configurations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-13T17:11:51Z",
-            "owner": "carnal0wnage",
-            "repo": "weirdAAL",
-            "stars": 844
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lazys3",
-          "description": "Brute-force AWS S3 bucket discovery using different permutations of common names.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-02-01T09:22:32Z",
-            "owner": "nahamsec",
-            "repo": "lazys3",
-            "stars": 635
-          }
-        }
-      ],
-      "title": "AWS-Specific Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ROADtools",
-          "description": "Framework for Azure AD reconnaissance and exploration of directory data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-05T13:43:22Z",
-            "owner": "dirkjanm",
-            "repo": "ROADtools",
-            "stars": 2699
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MicroBurst",
-          "description": "PowerShell toolkit for attacking Azure services including storage, key vaults, and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2026-06-29T14:43:59Z",
-            "owner": "NetSPI",
-            "repo": "MicroBurst",
-            "stars": 2420
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stormspotter",
-          "description": "Azure AD and resource visualization tool for mapping attack paths.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-08T17:20:05Z",
-            "owner": "Azure",
-            "repo": "Stormspotter",
-            "stars": 1713
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AADInternals",
-          "description": "PowerShell module for Azure AD and Office 365 administration, exploitation, and backdooring.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2025-09-30T18:30:24Z",
-            "owner": "Gerenios",
-            "repo": "AADInternals",
-            "stars": 1680
-          }
-        }
-      ],
-      "title": "Azure-Specific Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GCPBucketBrute",
-          "description": "Enumerate Google Storage buckets, determine access permissions, and check privilege escalation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-26T19:11:42Z",
-            "owner": "RhinoSecurityLabs",
-            "repo": "GCPBucketBrute",
-            "stars": 572
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hayat",
-          "description": "GCP resource enumeration and analysis tool for security assessments.",
-          "children": []
-        }
-      ],
-      "title": "GCP-Specific Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BucketLoot",
-          "description": "Automated tool to inspect exposed storage buckets for sensitive data across cloud providers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-12-30T06:25:52Z",
-            "owner": "redhuntlabs",
-            "repo": "BucketLoot",
-            "stars": 446
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bucket_finder",
-          "description": "Tool to bruteforce for the existence of AWS S3 buckets and check permissions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2013-06-24T12:12:03Z",
-            "owner": "FishermansEnemy",
-            "repo": "bucket_finder",
-            "stars": 100
-          }
-        }
-      ],
-      "title": "Bucket and Storage Discovery"
-    },
-    {
-      "description": "",
+      "description": "Complementary tools and platforms that enhance Cloud OSINT workflows.\n↑ Back to Contents",
       "items": [
         {
           "node_type": "item",
@@ -435,11 +366,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 252813491,
             "language": "Go",
             "last_commit": "2026-08-17T12:41:59Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30588
+            "stars": 30599
           }
         },
         {
@@ -449,25 +381,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267713284,
             "language": "Go",
-            "last_commit": "2026-08-15T17:21:03Z",
+            "last_commit": "2026-08-19T10:13:19Z",
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10287
+            "stars": 10290
           }
         }
       ],
       "title": "📦 Additional Resources"
-    },
-    {
-      "description": "Looking for OSINT resources specific to AI/ML infrastructure? Check out our companion repository:\nai_osint — Google dorks, Shodan queries, and techniques to discover exposed LLM endpoints (Ollama, vLLM), leaked AI API keys (OpenAI, Anthropic, Gemini), misconfigured vector databases (Qdrant, Weaviate, ChromaDB), unprotected AI agents (MCP servers, OpenClaw), and more.",
-      "items": [],
-      "title": "🤖 AI OSINT"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:42:50.216Z",
+    "last_updated": "2026-08-19T12:22:01.143Z",
     "original_repository": "7WaySecurity/cloud_osint",
+    "original_repository_id": 488647450,
     "original_repository_sha": "8a93a8006520d18ebffcccda9c660ba0ba74507b",
     "enhanced_repository": "enhansome/enhansome-cloud_osint",
     "enhanced_repository_description": null,
