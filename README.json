@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:59:12Z",
+                "last_commit": "2026-08-19T16:03:26Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14620
+                "stars": 14625
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 172811550,
                 "language": "Python",
-                "last_commit": "2026-08-19T00:09:58Z",
+                "last_commit": "2026-08-20T00:50:42Z",
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4013
+                "stars": 4015
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-07-28T11:32:15Z",
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3767
+                "stars": 3768
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-05-26T14:47:00Z",
                 "owner": "BishopFox",
                 "repo": "cloudfox",
-                "stars": 2560
+                "stars": 2559
               }
             },
             {
@@ -371,7 +371,7 @@
             "last_commit": "2026-08-17T12:41:59Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30599
+            "stars": 30607
           }
         },
         {
@@ -386,7 +386,7 @@
             "last_commit": "2026-08-19T10:13:19Z",
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10290
+            "stars": 10293
           }
         }
       ],
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:22:01.143Z",
+    "last_updated": "2026-08-20T02:41:45.954Z",
     "original_repository": "7WaySecurity/cloud_osint",
     "original_repository_id": 488647450,
     "original_repository_sha": "8a93a8006520d18ebffcccda9c660ba0ba74507b",
