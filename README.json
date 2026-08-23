@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-21T13:29:57Z",
+                "last_commit": "2026-08-22T20:33:52Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14645
+                "stars": 14649
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T08:12:06Z",
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7921
+                "stars": 7924
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 172811550,
                 "language": "Python",
-                "last_commit": "2026-08-21T19:47:21Z",
+                "last_commit": "2026-08-22T21:32:54Z",
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4020
+                "stars": 4022
               }
             },
             {
@@ -241,7 +241,7 @@
                 "last_commit": "2026-08-05T13:43:22Z",
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2699
+                "stars": 2701
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-06-29T14:43:59Z",
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2421
+                "stars": 2422
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2025-09-30T18:30:24Z",
                 "owner": "Gerenios",
                 "repo": "AADInternals",
-                "stars": 1680
+                "stars": 1681
               }
             }
           ],
@@ -371,7 +371,7 @@
             "last_commit": "2026-08-20T08:52:24Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30643
+            "stars": 30653
           }
         },
         {
@@ -386,7 +386,7 @@
             "last_commit": "2026-08-19T10:13:19Z",
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10307
+            "stars": 10311
           }
         }
       ],
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:38:48.095Z",
+    "last_updated": "2026-08-23T02:48:22.706Z",
     "original_repository": "7WaySecurity/cloud_osint",
     "original_repository_id": 488647450,
     "original_repository_sha": "8a93a8006520d18ebffcccda9c660ba0ba74507b",
