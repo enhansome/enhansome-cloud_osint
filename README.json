@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:19:02Z",
+                "last_commit": "2026-08-24T19:26:07Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14666
+                "stars": 14670
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-24T02:12:00Z",
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7925
+                "stars": 7929
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7798
+                "stars": 7799
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 172811550,
                 "language": "Python",
-                "last_commit": "2026-08-24T08:56:48Z",
+                "last_commit": "2026-08-25T02:07:46Z",
                 "owner": "cartography-cncf",
                 "repo": "cartography",
                 "stars": 4023
@@ -256,7 +256,7 @@
                 "last_commit": "2026-06-29T14:43:59Z",
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2423
+                "stars": 2424
               }
             },
             {
@@ -371,7 +371,7 @@
             "last_commit": "2026-08-24T08:59:31Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30762
+            "stars": 30771
           }
         },
         {
@@ -386,7 +386,7 @@
             "last_commit": "2026-08-24T13:45:16Z",
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10315
+            "stars": 10316
           }
         }
       ],
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:37:47.830Z",
+    "last_updated": "2026-08-25T02:43:11.695Z",
     "original_repository": "7WaySecurity/cloud_osint",
     "original_repository_id": 488647450,
     "original_repository_sha": "8a93a8006520d18ebffcccda9c660ba0ba74507b",
