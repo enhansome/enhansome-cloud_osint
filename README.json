@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T19:26:07Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14670
+                "stars": 14671
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-24T02:12:00Z",
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7929
+                "stars": 7931
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-06-29T14:43:59Z",
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2424
+                "stars": 2425
               }
             },
             {
@@ -371,7 +371,7 @@
             "last_commit": "2026-08-24T08:59:31Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30771
+            "stars": 30776
           }
         },
         {
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:43:11.695Z",
+    "last_updated": "2026-08-25T06:32:09.964Z",
     "original_repository": "7WaySecurity/cloud_osint",
     "original_repository_id": 488647450,
     "original_repository_sha": "8a93a8006520d18ebffcccda9c660ba0ba74507b",
