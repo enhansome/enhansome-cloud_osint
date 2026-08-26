@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-24T19:26:07Z",
+                "last_commit": "2026-08-25T19:32:35Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14671
+                "stars": 14678
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-24T02:12:00Z",
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7931
+                "stars": 7933
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7799
+                "stars": 7800
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 172811550,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:07:46Z",
+                "last_commit": "2026-08-26T00:16:31Z",
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4023
+                "stars": 4025
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-20T18:39:52Z",
                 "owner": "BishopFox",
                 "repo": "cloudfox",
-                "stars": 2561
+                "stars": 2562
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-05-19T22:31:37Z",
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5308
+                "stars": 5310
               }
             },
             {
@@ -241,7 +241,7 @@
                 "last_commit": "2026-08-05T13:43:22Z",
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2702
+                "stars": 2703
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2024-01-08T17:20:05Z",
                 "owner": "Azure",
                 "repo": "Stormspotter",
-                "stars": 1716
+                "stars": 1717
               }
             },
             {
@@ -368,10 +368,10 @@
             "archived": false,
             "id": 252813491,
             "language": "Go",
-            "last_commit": "2026-08-24T08:59:31Z",
+            "last_commit": "2026-08-26T02:14:51Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30776
+            "stars": 30820
           }
         },
         {
@@ -383,10 +383,10 @@
             "archived": false,
             "id": 267713284,
             "language": "Go",
-            "last_commit": "2026-08-24T13:45:16Z",
+            "last_commit": "2026-08-26T02:20:28Z",
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10316
+            "stars": 10321
           }
         }
       ],
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:09.964Z",
+    "last_updated": "2026-08-26T02:50:44.903Z",
     "original_repository": "7WaySecurity/cloud_osint",
     "original_repository_id": 488647450,
     "original_repository_sha": "8a93a8006520d18ebffcccda9c660ba0ba74507b",
