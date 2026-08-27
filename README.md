@@ -393,10 +393,10 @@ curl -s "https://crt.sh/?q=%.example.com&output=json" | jq -r '.[].name_value' |
 
 ### Multi-Cloud Tools
 
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,692 | 🐛 279 | 🌐 Python | 📅 2026-08-27 - Open-source cloud security tool for AWS, Azure, GCP, and Kubernetes with 300+ checks.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,692 | 🐛 275 | 🌐 Python | 📅 2026-08-27 - Open-source cloud security tool for AWS, Azure, GCP, and Kubernetes with 300+ checks.
 * [Steampipe](https://github.com/turbot/steampipe) ⭐ 7,935 | 🐛 16 | 🌐 Go | 📅 2026-08-24 - Query cloud infrastructure using SQL across AWS, Azure, GCP, and 100+ other services.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,802 | 🐛 296 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool for AWS, Azure, GCP, Alibaba Cloud, and Oracle Cloud configurations.
-* [Cartography](https://github.com/lyft/cartography) ⭐ 4,028 | 🐛 113 | 🌐 Python | 📅 2026-08-27 - Consolidates infrastructure assets and relationships across cloud providers into a graph database.
+* [Cartography](https://github.com/lyft/cartography) ⭐ 4,028 | 🐛 114 | 🌐 Python | 📅 2026-08-27 - Consolidates infrastructure assets and relationships across cloud providers into a graph database.
 * [CloudSploit](https://github.com/aquasecurity/cloudsploit) ⭐ 3,768 | 🐛 214 | 🌐 JavaScript | 📅 2026-07-28 - Cloud security posture management detecting misconfigurations across AWS, Azure, GCP, and Oracle.
 * [CloudFox](https://github.com/BishopFox/cloudfox) ⭐ 2,563 | 🐛 10 | 🌐 Go | 📅 2026-08-20 - Automating situational awareness for cloud penetration testing across AWS, Azure, and GCP.
 * [CloudEnum](https://github.com/initstring/cloud_enum) ⭐ 2,132 | 🐛 0 | 🌐 Python | 📅 2026-07-09 - Multi-cloud OSINT tool that enumerates public resources across AWS, Azure, and GCP simultaneously.
@@ -468,7 +468,7 @@ curl -s "https://crt.sh/?q=%.example.com&output=json" | jq -r '.[].name_value' |
 
 > Complementary tools and platforms that enhance Cloud OSINT workflows.
 
-* [Nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 30,870 | 🐛 105 | 🌐 Go | 📅 2026-08-26 - Vulnerability scanner with cloud-specific templates for detecting misconfigurations.
+* [Nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 30,869 | 🐛 105 | 🌐 Go | 📅 2026-08-26 - Vulnerability scanner with cloud-specific templates for detecting misconfigurations.
 * [httpx](https://github.com/projectdiscovery/httpx) ⭐ 10,324 | 🐛 9 | 🌐 Go | 📅 2026-08-26 - Fast HTTP toolkit useful for probing discovered cloud endpoints at scale.
 * [Dedigger](https://www.dedigger.com/#) - Find exposed files in Google Drive using search terms like AWS, Azure, GCP, etc.
 * [IntelX](https://intelx.io/) - Intelligence search engine indexing historical data from cloud services, paste sites, and data leaks.

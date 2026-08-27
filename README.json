@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:33:05Z",
+                "last_commit": "2026-08-27T12:04:20Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
                 "stars": 14692
@@ -371,7 +371,7 @@
             "last_commit": "2026-08-26T08:56:57Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30870
+            "stars": 30869
           }
         },
         {
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:38.061Z",
+    "last_updated": "2026-08-27T12:14:27.329Z",
     "original_repository_info": {
       "archived": false,
       "id": 488647450,
