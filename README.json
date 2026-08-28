@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-27T12:04:20Z",
+                "last_commit": "2026-08-28T13:17:40Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14692
-              }
+                "stars": 14705
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-24T02:12:00Z",
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7935
-              }
+                "stars": 7936
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
                 "stars": 7802
-              }
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -59,11 +62,12 @@
                 "archived": false,
                 "id": 172811550,
                 "language": "Python",
-                "last_commit": "2026-08-27T05:50:23Z",
+                "last_commit": "2026-08-28T00:27:11Z",
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4028
-              }
+                "stars": 4030
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
                 "stars": 3768
-              }
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -92,8 +97,9 @@
                 "last_commit": "2026-08-20T18:39:52Z",
                 "owner": "BishopFox",
                 "repo": "cloudfox",
-                "stars": 2563
-              }
+                "stars": 2564
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -107,8 +113,9 @@
                 "last_commit": "2026-07-09T03:20:37Z",
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2132
-              }
+                "stars": 2134
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "0xsha",
                 "repo": "CloudBrute",
                 "stars": 1145
-              }
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             }
           ],
           "description": null,
@@ -144,8 +152,9 @@
                 "last_commit": "2026-05-19T22:31:37Z",
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5312
-              }
+                "stars": 5313
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "sa7mon",
                 "repo": "S3Scanner",
                 "stars": 3165
-              }
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "jordanpotti",
                 "repo": "AWSBucketDump",
                 "stars": 1473
-              }
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "andresriancho",
                 "repo": "enumerate-iam",
                 "stars": 1253
-              }
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "carnal0wnage",
                 "repo": "weirdAAL",
                 "stars": 843
-              }
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "nahamsec",
                 "repo": "lazys3",
                 "stars": 635
-              }
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             }
           ],
           "description": null,
@@ -241,8 +255,9 @@
                 "last_commit": "2026-08-05T13:43:22Z",
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2704
-              }
+                "stars": 2705
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -256,8 +271,9 @@
                 "last_commit": "2026-06-29T14:43:59Z",
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2426
-              }
+                "stars": 2427
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "Azure",
                 "repo": "Stormspotter",
                 "stars": 1717
-              }
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -286,8 +303,9 @@
                 "last_commit": "2025-09-30T18:30:24Z",
                 "owner": "Gerenios",
                 "repo": "AADInternals",
-                "stars": 1683
-              }
+                "stars": 1685
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             }
           ],
           "description": null,
@@ -309,7 +327,8 @@
                 "owner": "RhinoSecurityLabs",
                 "repo": "GCPBucketBrute",
                 "stars": 573
-              }
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             }
           ],
           "description": null,
@@ -331,7 +350,8 @@
                 "owner": "redhuntlabs",
                 "repo": "BucketLoot",
                 "stars": 446
-              }
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "FishermansEnemy",
                 "repo": "bucket_finder",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T13:19:59.362Z"
             }
           ],
           "description": "↑ Back to Contents",
@@ -371,8 +392,9 @@
             "last_commit": "2026-08-26T08:56:57Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30869
-          }
+            "stars": 30890
+          },
+          "first_seen": "2026-08-28T13:19:59.362Z"
         },
         {
           "node_type": "item",
@@ -383,18 +405,19 @@
             "archived": false,
             "id": 267713284,
             "language": "Go",
-            "last_commit": "2026-08-26T10:30:09Z",
+            "last_commit": "2026-08-27T18:54:28Z",
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10324
-          }
+            "stars": 10329
+          },
+          "first_seen": "2026-08-28T13:19:59.362Z"
         }
       ],
       "title": "📦 Additional Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:14:27.329Z",
+    "last_updated": "2026-08-28T13:19:59.362Z",
     "original_repository_info": {
       "archived": false,
       "id": 488647450,
