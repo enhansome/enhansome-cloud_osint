@@ -21,7 +21,7 @@
                 "open_issues": 337,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14713,
+                "stars": 14714,
                 "topics": [
                   "aws",
                   "azure",
@@ -310,7 +310,7 @@
                 "open_issues": 41,
                 "owner": "sa7mon",
                 "repo": "S3Scanner",
-                "stars": 3166,
+                "stars": 3167,
                 "topics": [
                   "aws",
                   "bugbounty",
@@ -617,7 +617,7 @@
             "open_issues": 106,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30908,
+            "stars": 30909,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -650,7 +650,7 @@
             "open_issues": 7,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10329,
+            "stars": 10328,
             "topics": [
               "bugbounty",
               "cli",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:51.074Z",
+    "last_updated": "2026-08-29T08:16:45.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
