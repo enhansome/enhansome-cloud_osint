@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.",
+                "homepage": "https://prowler.com",
                 "id": 66474729,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:17:40Z",
+                "open_issues": 337,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14705
+                "stars": 14713,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "cis-benchmark",
+                  "cloud",
+                  "cloudsecurity",
+                  "compliance",
+                  "cspm",
+                  "devsecops",
+                  "forensics",
+                  "gcp",
+                  "gdpr",
+                  "hacktoberfest",
+                  "hardening",
+                  "iam",
+                  "multi-cloud",
+                  "python",
+                  "security",
+                  "security-audit",
+                  "security-hardening",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -28,12 +54,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.",
+                "homepage": "https://steampipe.io",
                 "id": 330405184,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-24T02:12:00Z",
+                "open_issues": 16,
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7936
+                "stars": 7936,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "cis",
+                  "cloud",
+                  "cnapp",
+                  "cspm",
+                  "devops",
+                  "devsecops",
+                  "etl",
+                  "gcp",
+                  "golang",
+                  "hacktoberfest",
+                  "kubernetes",
+                  "postgresql",
+                  "postgresql-fdw",
+                  "security",
+                  "sqlite",
+                  "steampipe",
+                  "terraform",
+                  "zero-etl"
+                ]
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -44,12 +96,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Cloud Security Auditing Tool",
+                "homepage": null,
                 "id": 155376283,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-09-23T18:33:52Z",
+                "open_issues": 296,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7802
+                "stars": 7803,
+                "topics": [
+                  "auditing",
+                  "aws",
+                  "azure",
+                  "cloud",
+                  "gcp",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -60,12 +124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database.",
+                "homepage": "https://docs.cartography.dev/",
                 "id": 172811550,
                 "language": "Python",
-                "last_commit": "2026-08-28T00:27:11Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:19:24Z",
+                "open_issues": 114,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4030
+                "stars": 4030,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -76,12 +145,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Security Posture Management (CSPM)",
+                "homepage": "https://cloud.aquasec.com/signup",
                 "id": 38255391,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-28T11:32:15Z",
+                "open_issues": 214,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3768
+                "stars": 3768,
+                "topics": [
+                  "alibaba",
+                  "aqua",
+                  "aws",
+                  "azure",
+                  "cloud",
+                  "cspm",
+                  "gcp",
+                  "oci",
+                  "oracle",
+                  "security",
+                  "security-audit"
+                ]
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -92,12 +178,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automating situational awareness for cloud penetration tests.",
+                "homepage": "https://bishopfox.com/blog/introducing-cloudfox",
                 "id": 534023067,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-20T18:39:52Z",
+                "open_issues": 10,
                 "owner": "BishopFox",
                 "repo": "cloudfox",
-                "stars": 2564
+                "stars": 2565,
+                "topics": [
+                  "aws",
+                  "cloud",
+                  "cloud-security",
+                  "golang",
+                  "penetration-testing-tools",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -108,12 +206,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.",
+                "homepage": null,
                 "id": 189564945,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-09T03:20:37Z",
+                "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2134
+                "stars": 2134,
+                "topics": [
+                  "osint",
+                  "penetration-testing"
+                ]
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -124,12 +230,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome cloud enumerator ",
+                "homepage": null,
                 "id": 294051203,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-03-09T17:48:52Z",
+                "open_issues": 0,
                 "owner": "0xsha",
                 "repo": "CloudBrute",
-                "stars": 1145
+                "stars": 1145,
+                "topics": [
+                  "amazon",
+                  "bugbounty",
+                  "cloud",
+                  "cloud-security",
+                  "cloud-storage",
+                  "digitalocean",
+                  "google",
+                  "hacking",
+                  "infosec",
+                  "linode",
+                  "pentest-tool",
+                  "pentesting",
+                  "redteam",
+                  "s3-bucket",
+                  "vultr"
+                ]
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             }
@@ -147,12 +274,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+                "homepage": "https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/",
                 "id": 137276052,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-05-19T22:31:37Z",
+                "open_issues": 37,
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5313
+                "stars": 5313,
+                "topics": [
+                  "aws",
+                  "aws-security",
+                  "penetration-testing",
+                  "python",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -163,12 +301,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scan for misconfigured S3 buckets across S3-compatible APIs!",
+                "homepage": "https://github.com/sa7mon/S3Scanner/discussions/135",
                 "id": 94825396,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-03T13:45:56Z",
+                "open_issues": 41,
                 "owner": "sa7mon",
                 "repo": "S3Scanner",
-                "stars": 3165
+                "stars": 3166,
+                "topics": [
+                  "aws",
+                  "bugbounty",
+                  "gcp",
+                  "infosec",
+                  "s3",
+                  "s3scanner"
+                ]
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -179,12 +329,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security Tool to Look For Interesting Files in S3 Buckets",
+                "homepage": null,
                 "id": 95813533,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-10T06:15:23Z",
+                "open_issues": 8,
                 "owner": "jordanpotti",
                 "repo": "AWSBucketDump",
-                "stars": 1473
+                "stars": 1473,
+                "topics": [
+                  "bugbounty",
+                  "enumeration",
+                  "penetration-testing",
+                  "s3-bucket"
+                ]
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -195,12 +355,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enumerate the permissions associated with AWS credential set",
+                "homepage": null,
                 "id": 186037170,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-02-05T20:53:34Z",
+                "open_issues": 17,
                 "owner": "andresriancho",
                 "repo": "enumerate-iam",
-                "stars": 1253
+                "stars": 1253,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -211,12 +376,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WeirdAAL (AWS Attack Library) ",
+                "homepage": null,
                 "id": 92956899,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-13T17:11:51Z",
+                "open_issues": 22,
                 "owner": "carnal0wnage",
                 "repo": "weirdAAL",
-                "stars": 843
+                "stars": 843,
+                "topics": [
+                  "aws",
+                  "pentest-tool",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -227,12 +401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 97876566,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2024-02-01T09:22:32Z",
+                "open_issues": 8,
                 "owner": "nahamsec",
                 "repo": "lazys3",
-                "stars": 635
+                "stars": 635,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             }
@@ -250,12 +429,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Azure AD/Entra tools for offensive and defensive security purposes",
+                "homepage": null,
                 "id": 250760872,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-05T13:43:22Z",
+                "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2705
+                "stars": 2705,
+                "topics": [
+                  "azure-active-directory",
+                  "azuread",
+                  "microsoft-graph",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -266,12 +455,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of scripts for assessing Microsoft Azure security",
+                "homepage": null,
                 "id": 141166681,
                 "language": "PowerShell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-29T14:43:59Z",
+                "open_issues": 5,
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2427
+                "stars": 2427,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -282,12 +476,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Red Team tool for graphing Azure and Azure Active Directory objects",
+                "homepage": null,
                 "id": 258034494,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-08T17:20:05Z",
+                "open_issues": 23,
                 "owner": "Azure",
                 "repo": "Stormspotter",
-                "stars": 1717
+                "stars": 1718,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -298,12 +497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AADInternals PowerShell module for administering Azure AD and Office 365",
+                "homepage": "http://aadinternals.com/aadinternals",
                 "id": 154712144,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2025-09-30T18:30:24Z",
+                "open_issues": 23,
                 "owner": "Gerenios",
                 "repo": "AADInternals",
-                "stars": 1685
+                "stars": 1685,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             }
@@ -321,12 +525,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.",
+                "homepage": null,
                 "id": 172634627,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-05-26T19:11:42Z",
+                "open_issues": 7,
                 "owner": "RhinoSecurityLabs",
                 "repo": "GCPBucketBrute",
-                "stars": 573
+                "stars": 573,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             }
@@ -344,12 +553,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text.",
+                "homepage": null,
                 "id": 667330658,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-12-30T06:25:52Z",
+                "open_issues": 0,
                 "owner": "redhuntlabs",
                 "repo": "BucketLoot",
-                "stars": 446
+                "stars": 446,
+                "topics": [
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             },
@@ -360,12 +576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amazon bucket brute force tool",
+                "homepage": null,
                 "id": 9238403,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2013-06-24T12:12:03Z",
+                "open_issues": 1,
                 "owner": "FishermansEnemy",
                 "repo": "bucket_finder",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
             }
@@ -387,12 +608,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+            "homepage": "https://docs.projectdiscovery.io/tools/nuclei",
             "id": 252813491,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T08:56:57Z",
+            "open_issues": 106,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 30890
+            "stars": 30908,
+            "topics": [
+              "attack-surface",
+              "cve-scanner",
+              "dast",
+              "hacktoberfest",
+              "nuclei-engine",
+              "security",
+              "security-scanner",
+              "subdomain-takeover",
+              "vulnerability-assessment",
+              "vulnerability-detection",
+              "vulnerability-scanner"
+            ]
           },
           "first_seen": "2026-08-28T13:19:59.362Z"
         },
@@ -403,12 +641,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+            "homepage": "https://docs.projectdiscovery.io/tools/httpx",
             "id": 267713284,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:54:28Z",
+            "open_issues": 7,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10329
+            "stars": 10329,
+            "topics": [
+              "bugbounty",
+              "cli",
+              "cybersecurity",
+              "hacktoberfest",
+              "http",
+              "lib",
+              "osint",
+              "pentest-tool",
+              "pipeline",
+              "ssl-certificate"
+            ]
           },
           "first_seen": "2026-08-28T13:19:59.362Z"
         }
@@ -417,15 +671,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:19:59.362Z",
+    "last_updated": "2026-08-29T04:54:51.074Z",
     "original_repository_info": {
       "archived": false,
+      "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
+      "homepage": null,
       "id": 488647450,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-04-08T14:54:23Z",
+      "open_issues": 0,
       "owner": "7WaySecurity",
       "repo": "cloud_osint",
-      "stars": 136
+      "stars": 136,
+      "topics": [
+        "attack-surface",
+        "awesome",
+        "awesome-list",
+        "aws",
+        "azure",
+        "bug-bounty",
+        "cloud-security",
+        "dorks",
+        "gcp",
+        "ibm-cloud",
+        "infosec",
+        "oracle-cloud",
+        "osint",
+        "penetration-testing",
+        "reconnaissance",
+        "red-team",
+        "s3-bucket",
+        "security-audit",
+        "security-research",
+        "threat-intelligence"
+      ]
     },
     "original_repository_sha": "8a93a8006520d18ebffcccda9c660ba0ba74507b",
     "enhanced_repository": "enhansome/enhansome-cloud_osint",
