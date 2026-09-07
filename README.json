@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T14:15:01Z",
-                "open_issues": 377,
+                "open_issues": 378,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14759,
+                "stars": 14765,
                 "topics": [
                   "aws",
                   "azure",
@@ -63,7 +63,7 @@
                 "open_issues": 16,
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7948,
+                "stars": 7949,
                 "topics": [
                   "aws",
                   "azure",
@@ -105,7 +105,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7809,
+                "stars": 7810,
                 "topics": [
                   "auditing",
                   "aws",
@@ -130,7 +130,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-05T08:36:14Z",
-                "open_issues": 116,
+                "open_issues": 117,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
                 "stars": 4041,
@@ -154,7 +154,7 @@
                 "open_issues": 215,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3774,
+                "stars": 3775,
                 "topics": [
                   "alibaba",
                   "aqua",
@@ -187,7 +187,7 @@
                 "open_issues": 10,
                 "owner": "BishopFox",
                 "repo": "cloudfox",
-                "stars": 2573,
+                "stars": 2574,
                 "topics": [
                   "aws",
                   "cloud",
@@ -283,7 +283,7 @@
                 "open_issues": 37,
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5319,
+                "stars": 5320,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -364,7 +364,7 @@
                 "open_issues": 17,
                 "owner": "andresriancho",
                 "repo": "enumerate-iam",
-                "stars": 1256,
+                "stars": 1257,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -438,7 +438,7 @@
                 "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2711,
+                "stars": 2712,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -613,11 +613,11 @@
             "id": 252813491,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-05T01:15:37Z",
-            "open_issues": 102,
+            "last_commit": "2026-09-07T06:19:21Z",
+            "open_issues": 105,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 31032,
+            "stars": 31051,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -647,10 +647,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-05T20:03:13Z",
-            "open_issues": 13,
+            "open_issues": 18,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10360,
+            "stars": 10367,
             "topics": [
               "bugbounty",
               "cli",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T06:27:39.171Z",
+    "last_updated": "2026-09-07T06:36:08.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
@@ -683,7 +683,7 @@
       "open_issues": 0,
       "owner": "7WaySecurity",
       "repo": "cloud_osint",
-      "stars": 137,
+      "stars": 138,
       "topics": [
         "attack-surface",
         "awesome",
