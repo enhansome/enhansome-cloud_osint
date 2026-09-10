@@ -17,11 +17,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T21:40:32Z",
-                "open_issues": 367,
+                "last_commit": "2026-09-10T06:21:30Z",
+                "open_issues": 368,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14771,
+                "stars": 14782,
                 "topics": [
                   "aws",
                   "azure",
@@ -59,11 +59,11 @@
                 "id": 330405184,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T02:07:19Z",
+                "last_commit": "2026-09-10T02:08:43Z",
                 "open_issues": 16,
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7950,
+                "stars": 7954,
                 "topics": [
                   "aws",
                   "azure",
@@ -105,7 +105,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7815,
+                "stars": 7816,
                 "topics": [
                   "auditing",
                   "aws",
@@ -129,11 +129,11 @@
                 "id": 172811550,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T01:49:21Z",
-                "open_issues": 121,
+                "last_commit": "2026-09-10T01:06:09Z",
+                "open_issues": 122,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4043,
+                "stars": 4047,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -310,7 +310,7 @@
                 "open_issues": 41,
                 "owner": "sa7mon",
                 "repo": "S3Scanner",
-                "stars": 3169,
+                "stars": 3170,
                 "topics": [
                   "aws",
                   "bugbounty",
@@ -438,7 +438,7 @@
                 "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2718,
+                "stars": 2719,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -506,7 +506,7 @@
                 "open_issues": 23,
                 "owner": "Gerenios",
                 "repo": "AADInternals",
-                "stars": 1691,
+                "stars": 1692,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -613,11 +613,11 @@
             "id": 252813491,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-09T01:39:39Z",
-            "open_issues": 108,
+            "last_commit": "2026-09-10T06:10:26Z",
+            "open_issues": 106,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 31079,
+            "stars": 31096,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -646,11 +646,11 @@
             "id": 267713284,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-08T13:36:33Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-09T10:13:26Z",
+            "open_issues": 37,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10374,
+            "stars": 10380,
             "topics": [
               "bugbounty",
               "cli",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:36:53.383Z",
+    "last_updated": "2026-09-10T06:36:09.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
