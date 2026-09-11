@@ -17,11 +17,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T06:21:30Z",
+                "last_commit": "2026-09-10T15:55:11Z",
                 "open_issues": 368,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14782,
+                "stars": 14792,
                 "topics": [
                   "aws",
                   "azure",
@@ -59,11 +59,11 @@
                 "id": 330405184,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-10T02:08:43Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-11T00:14:37Z",
+                "open_issues": 17,
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7954,
+                "stars": 7956,
                 "topics": [
                   "aws",
                   "azure",
@@ -129,11 +129,11 @@
                 "id": 172811550,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T01:06:09Z",
-                "open_issues": 122,
+                "last_commit": "2026-09-11T04:48:27Z",
+                "open_issues": 121,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4047,
+                "stars": 4049,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -187,7 +187,7 @@
                 "open_issues": 10,
                 "owner": "BishopFox",
                 "repo": "cloudfox",
-                "stars": 2575,
+                "stars": 2576,
                 "topics": [
                   "aws",
                   "cloud",
@@ -239,7 +239,7 @@
                 "open_issues": 0,
                 "owner": "0xsha",
                 "repo": "CloudBrute",
-                "stars": 1146,
+                "stars": 1147,
                 "topics": [
                   "amazon",
                   "bugbounty",
@@ -283,7 +283,7 @@
                 "open_issues": 37,
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5325,
+                "stars": 5326,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -438,7 +438,7 @@
                 "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2719,
+                "stars": 2720,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -613,11 +613,11 @@
             "id": 252813491,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-10T06:10:26Z",
-            "open_issues": 106,
+            "last_commit": "2026-09-10T19:52:45Z",
+            "open_issues": 107,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 31096,
+            "stars": 31108,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -646,11 +646,11 @@
             "id": 267713284,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-09T10:13:26Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-10T21:31:28Z",
+            "open_issues": 9,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10380,
+            "stars": 10385,
             "topics": [
               "bugbounty",
               "cli",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T06:36:09.153Z",
+    "last_updated": "2026-09-11T06:35:54.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
