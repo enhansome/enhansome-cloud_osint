@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T14:17:04Z",
-                "open_issues": 369,
+                "open_issues": 371,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14808,
+                "stars": 14814,
                 "topics": [
                   "aws",
                   "azure",
@@ -105,7 +105,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7815,
+                "stars": 7817,
                 "topics": [
                   "auditing",
                   "aws",
@@ -133,7 +133,7 @@
                 "open_issues": 125,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4054,
+                "stars": 4058,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -187,7 +187,7 @@
                 "open_issues": 10,
                 "owner": "BishopFox",
                 "repo": "cloudfox",
-                "stars": 2577,
+                "stars": 2578,
                 "topics": [
                   "aws",
                   "cloud",
@@ -215,7 +215,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2138,
+                "stars": 2139,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -613,11 +613,11 @@
             "id": 252813491,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-12T21:08:18Z",
+            "last_commit": "2026-09-14T06:22:53Z",
             "open_issues": 99,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 31127,
+            "stars": 31141,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -650,7 +650,7 @@
             "open_issues": 7,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10388,
+            "stars": 10393,
             "topics": [
               "bugbounty",
               "cli",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:43:40.996Z",
+    "last_updated": "2026-09-14T06:57:28.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
