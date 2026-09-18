@@ -17,11 +17,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T14:33:09Z",
-                "open_issues": 380,
+                "last_commit": "2026-09-17T16:01:44Z",
+                "open_issues": 378,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14823,
+                "stars": 14831,
                 "topics": [
                   "aws",
                   "azure",
@@ -59,8 +59,8 @@
                 "id": 330405184,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-16T10:38:47Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-17T22:42:44Z",
+                "open_issues": 20,
                 "owner": "turbot",
                 "repo": "steampipe",
                 "stars": 7955,
@@ -105,7 +105,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7818,
+                "stars": 7820,
                 "topics": [
                   "auditing",
                   "aws",
@@ -129,11 +129,11 @@
                 "id": 172811550,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T21:44:37Z",
-                "open_issues": 121,
+                "last_commit": "2026-09-18T03:59:57Z",
+                "open_issues": 127,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4071,
+                "stars": 4081,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -154,7 +154,7 @@
                 "open_issues": 212,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3774,
+                "stars": 3775,
                 "topics": [
                   "alibaba",
                   "aqua",
@@ -187,7 +187,7 @@
                 "open_issues": 10,
                 "owner": "BishopFox",
                 "repo": "cloudfox",
-                "stars": 2578,
+                "stars": 2580,
                 "topics": [
                   "aws",
                   "cloud",
@@ -283,7 +283,7 @@
                 "open_issues": 38,
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5331,
+                "stars": 5332,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -410,7 +410,7 @@
                 "open_issues": 8,
                 "owner": "nahamsec",
                 "repo": "lazys3",
-                "stars": 637,
+                "stars": 638,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -613,11 +613,11 @@
             "id": 252813491,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-15T12:54:43Z",
-            "open_issues": 105,
+            "last_commit": "2026-09-18T00:53:23Z",
+            "open_issues": 106,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 31320,
+            "stars": 31278,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -650,7 +650,7 @@
             "open_issues": 10,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10400,
+            "stars": 10404,
             "topics": [
               "bugbounty",
               "cli",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:36:18.203Z",
+    "last_updated": "2026-09-18T06:33:51.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
