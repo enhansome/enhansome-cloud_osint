@@ -393,18 +393,18 @@ curl -s "https://crt.sh/?q=%.example.com&output=json" | jq -r '.[].name_value' |
 
 ### Multi-Cloud Tools
 
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,862 | 🐛 381 | 🌐 Python | 📅 2026-09-24 - Open-source cloud security tool for AWS, Azure, GCP, and Kubernetes with 300+ checks.
-* [Steampipe](https://github.com/turbot/steampipe) ⭐ 7,964 | 🐛 32 | 🌐 Go | 📅 2026-09-24 - Query cloud infrastructure using SQL across AWS, Azure, GCP, and 100+ other services.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,828 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool for AWS, Azure, GCP, Alibaba Cloud, and Oracle Cloud configurations.
-* [Cartography](https://github.com/lyft/cartography) ⭐ 4,099 | 🐛 131 | 🌐 Python | 📅 2026-09-25 - Consolidates infrastructure assets and relationships across cloud providers into a graph database.
-* [CloudSploit](https://github.com/aquasecurity/cloudsploit) ⭐ 3,775 | 🐛 212 | 🌐 JavaScript | 📅 2026-09-22 - Cloud security posture management detecting misconfigurations across AWS, Azure, GCP, and Oracle.
-* [CloudFox](https://github.com/BishopFox/cloudfox) ⭐ 2,579 | 🐛 10 | 🌐 Go | 📅 2026-08-20 - Automating situational awareness for cloud penetration testing across AWS, Azure, and GCP.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,865 | 🐛 382 | 🌐 Python | 📅 2026-09-25 - Open-source cloud security tool for AWS, Azure, GCP, and Kubernetes with 300+ checks.
+* [Steampipe](https://github.com/turbot/steampipe) ⭐ 7,964 | 🐛 33 | 🌐 Go | 📅 2026-09-25 - Query cloud infrastructure using SQL across AWS, Azure, GCP, and 100+ other services.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,830 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool for AWS, Azure, GCP, Alibaba Cloud, and Oracle Cloud configurations.
+* [Cartography](https://github.com/lyft/cartography) ⭐ 4,105 | 🐛 138 | 🌐 Python | 📅 2026-09-25 - Consolidates infrastructure assets and relationships across cloud providers into a graph database.
+* [CloudSploit](https://github.com/aquasecurity/cloudsploit) ⭐ 3,776 | 🐛 212 | 🌐 JavaScript | 📅 2026-09-22 - Cloud security posture management detecting misconfigurations across AWS, Azure, GCP, and Oracle.
+* [CloudFox](https://github.com/BishopFox/cloudfox) ⭐ 2,580 | 🐛 10 | 🌐 Go | 📅 2026-08-20 - Automating situational awareness for cloud penetration testing across AWS, Azure, and GCP.
 * [CloudEnum](https://github.com/initstring/cloud_enum) ⭐ 2,140 | 🐛 0 | 🌐 Python | 📅 2026-07-09 - Multi-cloud OSINT tool that enumerates public resources across AWS, Azure, and GCP simultaneously.
-* [CloudBrute](https://github.com/0xsha/CloudBrute) ⭐ 1,148 | 🐛 0 | 🌐 Go | 📅 2025-03-09 - Cloud infrastructure discovery tool supporting multiple providers with concurrent enumeration.
+* [CloudBrute](https://github.com/0xsha/CloudBrute) ⭐ 1,149 | 🐛 0 | 🌐 Go | 📅 2025-03-09 - Cloud infrastructure discovery tool supporting multiple providers with concurrent enumeration.
 
 ### AWS-Specific Tools
 
-* [Pacu](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,341 | 🐛 38 | 🌐 Python | 📅 2026-05-19 - AWS exploitation framework designed for offensive security testing of cloud environments.
+* [Pacu](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,343 | 🐛 38 | 🌐 Python | 📅 2026-05-19 - AWS exploitation framework designed for offensive security testing of cloud environments.
 * [S3Scanner](https://github.com/sa7mon/S3Scanner) ⭐ 3,176 | 🐛 41 | 🌐 Go | 📅 2026-08-03 - Scan for open S3 buckets, dump their contents, and check bucket permissions.
 * [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) ⭐ 1,474 | 🐛 8 | 🌐 Python | 📅 2024-04-10 - Quickly enumerate AWS S3 buckets and search for interesting files within discovered buckets.
 * [enumerate-iam](https://github.com/andresriancho/enumerate-iam) ⭐ 1,261 | 🐛 17 | 🌐 Python | 📅 2024-02-05 - Enumerate IAM permissions for a given set of AWS credentials without logging.
@@ -413,10 +413,10 @@ curl -s "https://crt.sh/?q=%.example.com&output=json" | jq -r '.[].name_value' |
 
 ### Azure-Specific Tools
 
-* [ROADtools](https://github.com/dirkjanm/ROADtools) ⭐ 2,722 | 🐛 13 | 🌐 Python | 📅 2026-08-05 - Framework for Azure AD reconnaissance and exploration of directory data.
-* [MicroBurst](https://github.com/NetSPI/MicroBurst) ⭐ 2,443 | 🐛 5 | 🌐 PowerShell | 📅 2026-06-29 - PowerShell toolkit for attacking Azure services including storage, key vaults, and more.
-* [Stormspotter](https://github.com/Azure/Stormspotter) ⭐ 1,719 | 🐛 23 | 🌐 Python | 📅 2024-01-08 - Azure AD and resource visualization tool for mapping attack paths.
-* [AADInternals](https://github.com/Gerenios/AADInternals) ⭐ 1,693 | 🐛 23 | 🌐 PowerShell | 📅 2025-09-30 - PowerShell module for Azure AD and Office 365 administration, exploitation, and backdooring.
+* [ROADtools](https://github.com/dirkjanm/ROADtools) ⭐ 2,723 | 🐛 13 | 🌐 Python | 📅 2026-08-05 - Framework for Azure AD reconnaissance and exploration of directory data.
+* [MicroBurst](https://github.com/NetSPI/MicroBurst) ⭐ 2,444 | 🐛 5 | 🌐 PowerShell | 📅 2026-06-29 - PowerShell toolkit for attacking Azure services including storage, key vaults, and more.
+* [Stormspotter](https://github.com/Azure/Stormspotter) ⭐ 1,721 | 🐛 23 | 🌐 Python | 📅 2024-01-08 - Azure AD and resource visualization tool for mapping attack paths.
+* [AADInternals](https://github.com/Gerenios/AADInternals) ⭐ 1,694 | 🐛 23 | 🌐 PowerShell | 📅 2025-09-30 - PowerShell module for Azure AD and Office 365 administration, exploitation, and backdooring.
 
 ### GCP-Specific Tools
 
@@ -426,7 +426,7 @@ curl -s "https://crt.sh/?q=%.example.com&output=json" | jq -r '.[].name_value' |
 
 ### Bucket and Storage Discovery
 
-* [BucketLoot](https://github.com/redhuntlabs/BucketLoot) ⭐ 444 | 🐛 0 | 🌐 Go | 📅 2025-12-30 - Automated tool to inspect exposed storage buckets for sensitive data across cloud providers.
+* [BucketLoot](https://github.com/redhuntlabs/BucketLoot) ⭐ 445 | 🐛 0 | 🌐 Go | 📅 2025-12-30 - Automated tool to inspect exposed storage buckets for sensitive data across cloud providers.
 * [bucket\_finder](https://github.com/FishermansEnemy/bucket_finder) ⭐ 100 | 🐛 1 | 🌐 Ruby | 📅 2013-06-24 - Tool to bruteforce for the existence of AWS S3 buckets and check permissions.
 * [S3 Browser](https://s3browser.com) - Windows client for Amazon S3 and CloudFront, useful for browsing discovered bucket contents.
 
@@ -445,7 +445,7 @@ curl -s "https://crt.sh/?q=%.example.com&output=json" | jq -r '.[].name_value' |
 * [osint.sh Subdomain Finder](https://osint.sh/subdomain/) - Subdomain enumeration through multiple data sources.
 * [SecurityTrails](https://securitytrails.com/) - Historical DNS data and domain intelligence with API access for automation.
 * [Spyse](https://spyse.com/tools/subdomain-finder) - Domain and subdomain enumeration with detailed DNS intelligence.
-* [Subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,500 | 🐛 3 | 🌐 Go | 📅 2026-09-25 - Fast passive subdomain enumeration tool using multiple online sources.
+* [Subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,504 | 🐛 3 | 🌐 Go | 📅 2026-09-25 - Fast passive subdomain enumeration tool using multiple online sources.
 * [ZoomEye](https://www.zoomeye.org/) - Cyberspace search engine for discovering internet-connected devices and exposed services.
 
 [↑ Back to Contents](#-contents)
@@ -468,8 +468,8 @@ curl -s "https://crt.sh/?q=%.example.com&output=json" | jq -r '.[].name_value' |
 
 > Complementary tools and platforms that enhance Cloud OSINT workflows.
 
-* [Nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 31,499 | 🐛 107 | 🌐 Go | 📅 2026-09-24 - Vulnerability scanner with cloud-specific templates for detecting misconfigurations.
-* [httpx](https://github.com/projectdiscovery/httpx) ⭐ 10,426 | 🐛 11 | 🌐 Go | 📅 2026-09-23 - Fast HTTP toolkit useful for probing discovered cloud endpoints at scale.
+* [Nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 31,531 | 🐛 106 | 🌐 Go | 📅 2026-09-26 - Vulnerability scanner with cloud-specific templates for detecting misconfigurations.
+* [httpx](https://github.com/projectdiscovery/httpx) ⭐ 10,427 | 🐛 11 | 🌐 Go | 📅 2026-09-23 - Fast HTTP toolkit useful for probing discovered cloud endpoints at scale.
 * [Dedigger](https://www.dedigger.com/#) - Find exposed files in Google Drive using search terms like AWS, Azure, GCP, etc.
 * [IntelX](https://intelx.io/) - Intelligence search engine indexing historical data from cloud services, paste sites, and data leaks.
 
@@ -513,7 +513,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions.
 
 Looking for OSINT resources specific to **AI/ML infrastructure**? Check out our companion repository:
 
-**[ai\_osint](https://github.com/7WaySecurity/ai_osint) ⭐ 166 | 🐛 0 | 📅 2026-06-19** — Google dorks, Shodan queries, and techniques to discover exposed LLM endpoints (Ollama, vLLM), leaked AI API keys (OpenAI, Anthropic, Gemini), misconfigured vector databases (Qdrant, Weaviate, ChromaDB), unprotected AI agents (MCP servers, OpenClaw), and more.
+**[ai\_osint](https://github.com/7WaySecurity/ai_osint) ⭐ 165 | 🐛 0 | 📅 2026-06-19** — Google dorks, Shodan queries, and techniques to discover exposed LLM endpoints (Ollama, vLLM), leaked AI API keys (OpenAI, Anthropic, Gemini), misconfigured vector databases (Qdrant, Weaviate, ChromaDB), unprotected AI agents (MCP servers, OpenClaw), and more.
 
 ***
 
@@ -523,4 +523,4 @@ Looking for OSINT resources specific to **AI/ML infrastructure**? Check out our 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
