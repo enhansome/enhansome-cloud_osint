@@ -133,7 +133,7 @@
                 "open_issues": 137,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4119,
+                "stars": 4118,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -617,7 +617,7 @@
             "open_issues": 122,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 31683,
+            "stars": 31684,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:39:53.433Z",
+    "last_updated": "2026-10-03T07:02:44.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
