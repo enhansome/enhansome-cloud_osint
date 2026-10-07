@@ -17,11 +17,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:24:21Z",
-                "open_issues": 416,
+                "last_commit": "2026-10-06T14:33:14Z",
+                "open_issues": 422,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14964,
+                "stars": 14972,
                 "topics": [
                   "aws",
                   "azure",
@@ -59,8 +59,8 @@
                 "id": 330405184,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-06T08:20:45Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-06T14:46:39Z",
+                "open_issues": 31,
                 "owner": "turbot",
                 "repo": "steampipe",
                 "stars": 7971,
@@ -105,7 +105,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7833,
+                "stars": 7836,
                 "topics": [
                   "auditing",
                   "aws",
@@ -129,8 +129,8 @@
                 "id": 172811550,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T00:25:03Z",
-                "open_issues": 143,
+                "last_commit": "2026-10-07T01:11:52Z",
+                "open_issues": 139,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
                 "stars": 4120,
@@ -187,7 +187,7 @@
                 "open_issues": 10,
                 "owner": "BishopFox",
                 "repo": "cloudfox",
-                "stars": 2596,
+                "stars": 2597,
                 "topics": [
                   "aws",
                   "cloud",
@@ -310,7 +310,7 @@
                 "open_issues": 41,
                 "owner": "sa7mon",
                 "repo": "S3Scanner",
-                "stars": 3174,
+                "stars": 3175,
                 "topics": [
                   "aws",
                   "bugbounty",
@@ -338,7 +338,7 @@
                 "open_issues": 8,
                 "owner": "jordanpotti",
                 "repo": "AWSBucketDump",
-                "stars": 1472,
+                "stars": 1471,
                 "topics": [
                   "bugbounty",
                   "enumeration",
@@ -438,7 +438,7 @@
                 "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2732,
+                "stars": 2736,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -613,11 +613,11 @@
             "id": 252813491,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-06T05:31:10Z",
-            "open_issues": 132,
+            "last_commit": "2026-10-06T20:21:45Z",
+            "open_issues": 136,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 31772,
+            "stars": 31781,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -650,7 +650,7 @@
             "open_issues": 18,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10449,
+            "stars": 10451,
             "topics": [
               "bugbounty",
               "cli",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:55:08.554Z",
+    "last_updated": "2026-10-07T07:41:10.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
@@ -683,7 +683,7 @@
       "open_issues": 0,
       "owner": "7WaySecurity",
       "repo": "cloud_osint",
-      "stars": 141,
+      "stars": 142,
       "topics": [
         "attack-surface",
         "awesome",
