@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T09:14:47Z",
-                "open_issues": 475,
+                "open_issues": 484,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15047,
+                "stars": 15053,
                 "topics": [
                   "aws",
                   "azure",
@@ -63,7 +63,7 @@
                 "open_issues": 26,
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7985,
+                "stars": 7986,
                 "topics": [
                   "aws",
                   "azure",
@@ -105,7 +105,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7851,
+                "stars": 7855,
                 "topics": [
                   "auditing",
                   "aws",
@@ -130,10 +130,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-17T04:18:53Z",
-                "open_issues": 135,
+                "open_issues": 132,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4144,
+                "stars": 4145,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -283,7 +283,7 @@
                 "open_issues": 38,
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5361,
+                "stars": 5363,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -434,8 +434,8 @@
                 "id": 250760872,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-05T13:43:22Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-17T16:39:50Z",
+                "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
                 "stars": 2741,
@@ -464,7 +464,7 @@
                 "open_issues": 5,
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2464,
+                "stars": 2466,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -613,11 +613,11 @@
             "id": 252813491,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-17T03:33:47Z",
-            "open_issues": 140,
+            "last_commit": "2026-10-18T01:26:03Z",
+            "open_issues": 141,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 32076,
+            "stars": 32095,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -650,7 +650,7 @@
             "open_issues": 18,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10485,
+            "stars": 10487,
             "topics": [
               "bugbounty",
               "cli",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:04:51.753Z",
+    "last_updated": "2026-10-18T06:31:45.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
