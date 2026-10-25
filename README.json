@@ -17,11 +17,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T18:03:44Z",
-                "open_issues": 500,
+                "last_commit": "2026-10-25T02:41:03Z",
+                "open_issues": 507,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15093,
+                "stars": 15095,
                 "topics": [
                   "aws",
                   "azure",
@@ -63,7 +63,7 @@
                 "open_issues": 32,
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7988,
+                "stars": 7990,
                 "topics": [
                   "aws",
                   "azure",
@@ -105,7 +105,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7855,
+                "stars": 7856,
                 "topics": [
                   "auditing",
                   "aws",
@@ -130,10 +130,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T00:33:26Z",
-                "open_issues": 130,
+                "open_issues": 132,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4150,
+                "stars": 4153,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -154,7 +154,7 @@
                 "open_issues": 208,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3782,
+                "stars": 3781,
                 "topics": [
                   "alibaba",
                   "aqua",
@@ -215,7 +215,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2151,
+                "stars": 2153,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -438,7 +438,7 @@
                 "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2749,
+                "stars": 2746,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -562,7 +562,7 @@
                 "open_issues": 0,
                 "owner": "redhuntlabs",
                 "repo": "BucketLoot",
-                "stars": 445,
+                "stars": 444,
                 "topics": [
                   "research"
                 ]
@@ -613,11 +613,11 @@
             "id": 252813491,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-24T00:28:10Z",
-            "open_issues": 117,
+            "last_commit": "2026-10-24T22:59:31Z",
+            "open_issues": 115,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 32273,
+            "stars": 32296,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -646,11 +646,11 @@
             "id": 267713284,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-23T20:26:37Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-24T21:16:49Z",
+            "open_issues": 11,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10528,
+            "stars": 10537,
             "topics": [
               "bugbounty",
               "cli",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:23:14.442Z",
+    "last_updated": "2026-10-25T06:43:44.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
