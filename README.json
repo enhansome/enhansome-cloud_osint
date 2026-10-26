@@ -21,7 +21,7 @@
                 "open_issues": 507,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15095,
+                "stars": 15093,
                 "topics": [
                   "aws",
                   "azure",
@@ -105,7 +105,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7856,
+                "stars": 7858,
                 "topics": [
                   "auditing",
                   "aws",
@@ -129,11 +129,11 @@
                 "id": 172811550,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T00:33:26Z",
-                "open_issues": 132,
+                "last_commit": "2026-10-26T02:37:21Z",
+                "open_issues": 131,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4153,
+                "stars": 4156,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -187,7 +187,7 @@
                 "open_issues": 9,
                 "owner": "BishopFox",
                 "repo": "cloudfox",
-                "stars": 2605,
+                "stars": 2604,
                 "topics": [
                   "aws",
                   "cloud",
@@ -215,7 +215,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2153,
+                "stars": 2155,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -283,7 +283,7 @@
                 "open_issues": 38,
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5370,
+                "stars": 5372,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -310,7 +310,7 @@
                 "open_issues": 41,
                 "owner": "sa7mon",
                 "repo": "S3Scanner",
-                "stars": 3179,
+                "stars": 3180,
                 "topics": [
                   "aws",
                   "bugbounty",
@@ -438,7 +438,7 @@
                 "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2746,
+                "stars": 2747,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -613,11 +613,11 @@
             "id": 252813491,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-24T22:59:31Z",
-            "open_issues": 115,
+            "last_commit": "2026-10-26T06:35:25Z",
+            "open_issues": 79,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 32296,
+            "stars": 32312,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -646,11 +646,11 @@
             "id": 267713284,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-24T21:16:49Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-25T15:57:07Z",
+            "open_issues": 8,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10537,
+            "stars": 10542,
             "topics": [
               "bugbounty",
               "cli",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T06:43:44.221Z",
+    "last_updated": "2026-10-26T06:52:41.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
@@ -683,7 +683,7 @@
       "open_issues": 0,
       "owner": "7WaySecurity",
       "repo": "cloud_osint",
-      "stars": 144,
+      "stars": 146,
       "topics": [
         "attack-surface",
         "awesome",
