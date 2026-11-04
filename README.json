@@ -17,11 +17,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T22:13:48Z",
-                "open_issues": 547,
+                "last_commit": "2026-11-04T07:35:08Z",
+                "open_issues": 538,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15160,
+                "stars": 15164,
                 "topics": [
                   "aws",
                   "azure",
@@ -59,8 +59,8 @@
                 "id": 330405184,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-03T03:28:09Z",
-                "open_issues": 33,
+                "last_commit": "2026-11-04T00:28:58Z",
+                "open_issues": 35,
                 "owner": "turbot",
                 "repo": "steampipe",
                 "stars": 7994,
@@ -105,7 +105,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7869,
+                "stars": 7870,
                 "topics": [
                   "auditing",
                   "aws",
@@ -129,11 +129,11 @@
                 "id": 172811550,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T05:17:39Z",
-                "open_issues": 138,
+                "last_commit": "2026-11-04T06:45:44Z",
+                "open_issues": 139,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4167,
+                "stars": 4171,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -151,7 +151,7 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-22T14:36:35Z",
-                "open_issues": 210,
+                "open_issues": 212,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
                 "stars": 3789,
@@ -215,7 +215,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2159,
+                "stars": 2160,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -338,7 +338,7 @@
                 "open_issues": 8,
                 "owner": "jordanpotti",
                 "repo": "AWSBucketDump",
-                "stars": 1469,
+                "stars": 1470,
                 "topics": [
                   "bugbounty",
                   "enumeration",
@@ -438,7 +438,7 @@
                 "open_issues": 14,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2753,
+                "stars": 2754,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -613,11 +613,11 @@
             "id": 252813491,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-02T21:36:43Z",
-            "open_issues": 87,
+            "last_commit": "2026-11-04T07:53:10Z",
+            "open_issues": 94,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 32555,
+            "stars": 32579,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -650,7 +650,7 @@
             "open_issues": 7,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10572,
+            "stars": 10577,
             "topics": [
               "bugbounty",
               "cli",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T08:30:38.572Z",
+    "last_updated": "2026-11-04T07:56:55.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
