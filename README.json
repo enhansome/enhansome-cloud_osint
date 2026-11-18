@@ -17,11 +17,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T09:12:15Z",
-                "open_issues": 488,
+                "last_commit": "2026-11-18T08:07:54Z",
+                "open_issues": 499,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15261,
+                "stars": 15272,
                 "topics": [
                   "aws",
                   "azure",
@@ -59,11 +59,11 @@
                 "id": 330405184,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-16T17:21:24Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-17T15:39:57Z",
+                "open_issues": 35,
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 8012,
+                "stars": 8015,
                 "topics": [
                   "aws",
                   "azure",
@@ -105,7 +105,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7881,
+                "stars": 7883,
                 "topics": [
                   "auditing",
                   "aws",
@@ -129,11 +129,11 @@
                 "id": 172811550,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T06:11:47Z",
-                "open_issues": 152,
+                "last_commit": "2026-11-18T08:41:28Z",
+                "open_issues": 157,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4191,
+                "stars": 4193,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -151,10 +151,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-22T14:36:35Z",
-                "open_issues": 213,
+                "open_issues": 214,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3791,
+                "stars": 3790,
                 "topics": [
                   "alibaba",
                   "aqua",
@@ -187,7 +187,7 @@
                 "open_issues": 9,
                 "owner": "BishopFox",
                 "repo": "cloudfox",
-                "stars": 2627,
+                "stars": 2629,
                 "topics": [
                   "aws",
                   "cloud",
@@ -283,7 +283,7 @@
                 "open_issues": 39,
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5401,
+                "stars": 5400,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -364,7 +364,7 @@
                 "open_issues": 17,
                 "owner": "andresriancho",
                 "repo": "enumerate-iam",
-                "stars": 1262,
+                "stars": 1263,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -438,7 +438,7 @@
                 "open_issues": 14,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2771,
+                "stars": 2772,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -464,7 +464,7 @@
                 "open_issues": 5,
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2471,
+                "stars": 2472,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -613,11 +613,11 @@
             "id": 252813491,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-16T23:58:49Z",
-            "open_issues": 114,
+            "last_commit": "2026-11-18T07:39:23Z",
+            "open_issues": 101,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 33030,
+            "stars": 33068,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -646,11 +646,11 @@
             "id": 267713284,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-17T09:25:02Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-18T06:27:57Z",
+            "open_issues": 13,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10623,
+            "stars": 10630,
             "topics": [
               "bugbounty",
               "cli",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:42:00.615Z",
+    "last_updated": "2026-11-18T09:01:38.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
