@@ -12,16 +12,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment for Humans and AI Agents.",
+                "description": "Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.",
                 "homepage": "https://prowler.com",
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T09:49:48Z",
-                "open_issues": 456,
+                "last_commit": "2026-11-27T10:02:06Z",
+                "open_issues": 465,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15336,
+                "stars": 15337,
                 "topics": [
                   "aws",
                   "azure",
@@ -63,7 +63,7 @@
                 "open_issues": 2,
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 8022,
+                "stars": 8024,
                 "topics": [
                   "aws",
                   "azure",
@@ -105,7 +105,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7887,
+                "stars": 7888,
                 "topics": [
                   "auditing",
                   "aws",
@@ -129,11 +129,11 @@
                 "id": 172811550,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T23:43:55Z",
-                "open_issues": 174,
+                "last_commit": "2026-11-26T22:00:45Z",
+                "open_issues": 179,
                 "owner": "cartography-cncf",
                 "repo": "cartography",
-                "stars": 4205,
+                "stars": 4207,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:59.362Z"
@@ -154,7 +154,7 @@
                 "open_issues": 214,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3789,
+                "stars": 3788,
                 "topics": [
                   "alibaba",
                   "aqua",
@@ -215,7 +215,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2170,
+                "stars": 2171,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -310,7 +310,7 @@
                 "open_issues": 41,
                 "owner": "sa7mon",
                 "repo": "S3Scanner",
-                "stars": 3184,
+                "stars": 3183,
                 "topics": [
                   "aws",
                   "bugbounty",
@@ -613,11 +613,11 @@
             "id": 252813491,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-26T09:59:10Z",
-            "open_issues": 129,
+            "last_commit": "2026-11-26T21:14:17Z",
+            "open_issues": 84,
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 33308,
+            "stars": 33352,
             "topics": [
               "attack-surface",
               "cve-scanner",
@@ -646,11 +646,11 @@
             "id": 267713284,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-26T06:04:27Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-26T22:46:13Z",
+            "open_issues": 4,
             "owner": "projectdiscovery",
             "repo": "httpx",
-            "stars": 10661,
+            "stars": 10664,
             "topics": [
               "bugbounty",
               "cli",
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T09:59:26.181Z",
+    "last_updated": "2026-11-27T10:04:42.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance",
